@@ -1,5 +1,5 @@
 # trilha-curso-alura
-Repositório João Pedro Marques Mendes - Projeto Trilhas ( Front End )
+Repositório João Mendes - Projeto Trilhas ( Front End )
 
 #### Desafio 1 - Respostas (12/02/2025)
 
